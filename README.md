@@ -1,5 +1,5 @@
 # firstproject
 My first git repo. 
 <br>
-My Name = Pritam Khag
+My Name = Pritam Khag (jishu)
 
